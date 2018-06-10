@@ -1,0 +1,22 @@
+body {
+  margin: 30px;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  margin: 5px;
+}
+
+h2,
+p,
+a {
+  text-align: center;
+}
+
+.FCC {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+/*# sourceMappingURL=App.css.map */
